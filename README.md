@@ -18,3 +18,13 @@ solana address -k target/deploy/myepicproject-keypair.json
 // Build again.
 anchor build
 ```
+
+## READ!
+
+**[Solana-Web3.js](https://solana-labs.github.io/solana-web3.js/modules.html#Commitment)**
+
+**[Solana Docs](https://docs.solana.com/developing/programming-model/overview)**
+
+**[Rust-Lang Docs](https://doc.rust-lang.org/book/ch01-01-installation.html)**
+
+**[Anchor Docs](https://project-serum.github.io/anchor/getting-started/projects.html)**
